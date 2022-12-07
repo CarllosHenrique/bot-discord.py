@@ -17,7 +17,7 @@ There are three types of commands in the ```main.py``` file, from line 62 to lin
 ```ruby
    %agenda 
    ```
-* Adicionar - This lovely command creates notes in the diary. ```.txt``` together with the creator's ID_USER, which is added automatically.
+* Adicionar - This command creates notes in the diary. ```.txt``` together with the creator's ID_USER, which is added automatically.
 ```ruby
    %adicionar "text" 
    ```
